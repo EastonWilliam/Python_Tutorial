@@ -21,10 +21,4 @@ print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 print(type(3 == 3))              # Bool
 print(type(3 >= 3))              # Bool
-// Settings
-Windows
-Mac
-Vista
-Nox
-// Environments
-Team Work
+print(type(3 <= 2))              # Bool
