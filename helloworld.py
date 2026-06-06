@@ -22,7 +22,4 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
 print(type(3 == 3))              # Bool
 print(type(3 >= 3))              # Bool
 print(type(3 <= 2))              # Bool
-print(type(4>3))
-
-//settings
-//env
+print(type(6 <= 2))              # Bool
