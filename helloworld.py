@@ -24,4 +24,5 @@ print(type(3 >= 3))              # Bool
 // Settings
 Windows
 Mac
+Vista
 // Environments
