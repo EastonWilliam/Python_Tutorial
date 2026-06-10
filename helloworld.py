@@ -25,4 +25,5 @@ print(type(3 >= 3))              # Bool
 Windows
 Mac
 Vista
+Nox
 // Environments
