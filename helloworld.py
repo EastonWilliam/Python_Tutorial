@@ -23,4 +23,5 @@ print(type(3 == 3))              # Bool
 print(type(3 >= 3))              # Bool
 // Settings
 Windows
+Mac
 // Environments
