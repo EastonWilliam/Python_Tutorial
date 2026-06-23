@@ -24,3 +24,4 @@ print(type(3 >= 3))              # Bool
 print(type(3 <= 2))              # Bool
 
 //EncodingWarning
+//Desktop, Tablet, Mobile, and Laptop are all types of devices.
