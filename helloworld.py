@@ -25,3 +25,4 @@ print(type(3 <= 2))              # Bool
 print(type(4>3))
 
 //settings
+//env
