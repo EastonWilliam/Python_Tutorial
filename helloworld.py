@@ -1,5 +1,6 @@
 # Introduction
 # Day 1 - 30DaysOfPython Challenge
+# 2026_7_11
 
 print(3 + 2)   # addition(+)
 print(3 - 2)   # subtraction(-)
@@ -26,4 +27,5 @@ print(type(6 <= 2))              # Bool
 print(type(6 <= 2))              # Bool
 print(type(6 <= 2))              # Bool
 print(type(7 < =5))              # bool
-print(type(8 < =9))              #bool
+print(type(8 < =9))              # bool
+print(type(7 <= 9))
