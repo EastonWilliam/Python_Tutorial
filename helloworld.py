@@ -26,3 +26,4 @@ print(type(6 <= 2))              # Bool
 print(type(6 <= 2))              # Bool
 print(type(6 <= 2))              # Bool
 print(type(7 < =5))              # bool
+print(type(8 < =9))              #bool
